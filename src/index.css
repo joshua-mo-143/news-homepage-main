@@ -129,12 +129,16 @@ body {
   padding: 0.5rem;
   color: white;
   cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+#home-splash-excerpt button:hover {
+  background: hsl(240, 100%, 5%);
 }
 #home-sidebar {
   width: 50%;
   margin: 0;
   margin-bottom: 1rem;
-  background-color: black;
+  background-color: hsl(240, 100%, 5%);
   padding: 2rem;
 }
 #home-sidebar .sidebar-title {
