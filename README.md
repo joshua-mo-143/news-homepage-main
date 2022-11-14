@@ -12,11 +12,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./screenshot.jpg) -->
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/joshua-mo-143/news-homepage-main](https://github.com/joshua-mo-143/news-homepage-main)
+- Live Site URL: [https://news-homepage-main-two.vercel.app/](https://news-homepage-main-two.vercel.app/)
 
 ## My process
 
@@ -54,7 +51,7 @@ Learned how to use LessCSS and what the pros/cons are of it. Also practised usin
 
 ### Continued development
 
-Probably going to consider continuing to use LessCSS or trying to learn Stylus. I enjoy using TailwindCSS quite a lot because it speeds up development, but it's always good to consider more than one approach depending on what the needs of the project/client are.
+Probably going to consider continuing to use LessCSS or trying to learn Stylus, as well as working with a more mobile-first approach as I'm not entirely used to working in mobile-first yet. Although I enjoy using TailwindCSS quite a lot because it speeds up development, it's always good to consider more than one approach depending on what the needs of the project/client are.
 
 ## Author
 
