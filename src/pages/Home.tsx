@@ -20,8 +20,8 @@ const Home = (props: Props) => {
             <NewsItemMain/>
             <NewsArticleSidebar>
               <NewsArticleSidebarItem title="Hydrogen VS Electric Cars" excerpt="Will hydrogen-fueled cars ever catch up to EVs?"/>
-              <NewsArticleSidebarItem title="Hydrogen VS Electric Cars" excerpt="Will hydrogen-fueled cars ever catch up to EVs?"/>
-              <NewsArticleSidebarItem title="Hydrogen VS Electric Cars" excerpt="Will hydrogen-fueled cars ever catch up to EVs?"/>
+              <NewsArticleSidebarItem title="The downsides of AI Artistry" excerpt="What are the possible adverse effects of on-demand AI image generation?"/>
+              <NewsArticleSidebarItem title="Is VC Funding Drying Up?" excerpt="Private funding by VC firms is down by 50% YOY. We take a look at what that means."/>
             </NewsArticleSidebar>
       </section>
       <NewsArticleList>
