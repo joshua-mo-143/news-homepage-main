@@ -6,7 +6,7 @@ type Props = {}
 const NewsItemMain = (props: Props) => {
   return (
     <section id="home-splash-container">
-        <img src={splashImg} id="home-splash-img" height="250px" alt="Main splash image"/>
+        <img src={splashImg} id="home-splash-img"  height="250" alt="Main splash image"/>
         <h2 id="home-splash-title">
             The Bright Future of Web 3.0?
         </h2>
