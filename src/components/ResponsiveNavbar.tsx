@@ -11,7 +11,7 @@ const ResponsiveNavbar = ({active, setActive}: Props) => {
     <div className="responsive-navbar-wrapper">
         <nav className='responsive-navbar'>
         <div className="responsive-navbar-menu">
-        <img src={closeMenu} onClick={() => setActive(!active)}/>
+        <img src={closeMenu} onClick={() => setActive(!active)} alt="close responsive navigation icon"/>
         <ul id="responsive-navbar-list">
             <li className="navbar-item link-text">Home</li>
             <li className="navbar-item link-text">New</li>

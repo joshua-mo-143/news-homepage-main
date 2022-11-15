@@ -15,7 +15,7 @@ type Props = {}
 const Home = (props: Props) => {
   return (
     <Layout>
-      <div className="wrapper" id="home-page">
+      <main className="wrapper" id="home-page">
       <section id="home-main">
             <NewsItemMain/>
             <NewsArticleSidebar>
@@ -29,7 +29,7 @@ const Home = (props: Props) => {
         <NewsArticle title="Top 10 Laptops of 2022" excerpt="Our best picks for various needs and budgets." imgsrc={TopLaptopsImg} number="02"/>
         <NewsArticle title="The Growth of Gaming" excerpt="How the pandemic has sparked fresh opportunities." imgsrc={GamingGrowthImg} number="03"/>
       </NewsArticleList>
-      </div>
+      </main>
     </Layout>
   )
 }

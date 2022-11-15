@@ -11,7 +11,7 @@ type Props = {
 const NewsArticle = ({imgsrc, title, excerpt, number}: Props) => {
   return (
     <div className="news-article-item">
-        <img src={imgsrc}/>
+        <img src={imgsrc} alt={`Article image for ${title}`}/>
         <div className="news-article-text">
         <h1 className='news-article-number'>{number}</h1>
         <h1 className="news-article-title link-text-red">{title}</h1>
